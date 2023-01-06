@@ -4,7 +4,7 @@ const fs = require("fs");
 
 // fs.mkdirSync('talha'); 
 
-// fs.writeFileSync('thapa/bio.txt', "My First Task");
+// fs.writeFileSync('talha/bio.txt', "My First Task");
 
 // fs.appendFileSync('talha/bio.txt', "\nBy thapa tecnical")
 

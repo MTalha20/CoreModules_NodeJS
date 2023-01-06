@@ -10,8 +10,8 @@ const fs = require("fs");
 
 // fs.rename("readFile.txt", "read.txt", (err)=>{console.log("File  Renamed");});
 
-fs.readFile("read.txt", "utf-8", (err,data) => {
-    console.log(data);
-});
+// fs.readFile("read.txt", "utf-8", (err,data) => {
+//     console.log(data);
+// });
 
-console.log("after data");
+// console.log("after data");
